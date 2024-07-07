@@ -53,39 +53,75 @@
 ## 配图
 
 <a id="图1"></a>
-![图1](./images/2.jpg)
-<p align="center">图1：香港永居日期计算器</p>
+<p align="center"><b>图1：香港永居日期计算器</b></p>
+<p align="center">
+  <img src="./images/2.jpg" alt="图1">
+</p>
+
+---
 
 <a id="图2"></a>
-![图2](./images/3.jpg)
-<p align="center">图2：网上申请核实永久性居民身份证资格步骤</p>
+<p align="center"><b>图2：网上申请核实永久性居民身份证资格步骤</b></p>
+<p align="center">
+  <img src="./images/3.jpg" alt="图2">
+</p>
+
+---
 
 <a id="图3"></a>
-![图3](./images/4.jpg)
-<p align="center">图3：首次入境小白条</p>
+<p align="center"><b>图3：首次入境小白条</b></p>
+<p align="center">
+  <img src="./images/4.jpg" alt="图3">
+</p>
+
+---
 
 <a id="图4"></a>
-![图4](./images/5.jpg)
-<p align="center">图4：系统报错提示</p>
+<p align="center"><b>图4：系统报错提示</b></p>
+<p align="center">
+  <img src="./images/5.jpg" alt="图4">
+</p>
+
+---
 
 <a id="图5"></a>
-![图5](./images/6.jpg)
-<p align="center">图5：提前超过一个月申请的错误提示</p>
+<p align="center"><b>图5：提前超过一个月申请的错误提示</b></p>
+<p align="center">
+  <img src="./images/6.jpg" alt="图5">
+</p>
+
+---
 
 <a id="图6"></a>
-![图6](./images/7.jpg)
-<p align="center">图6：一个月以内申请的警告提示</p>
+<p align="center"><b>图6：一个月以内申请的警告提示</b></p>
+<p align="center">
+  <img src="./images/7.jpg" alt="图6">
+</p>
+
+---
 
 <a id="图7"></a>
-![图7](./images/8.jpg)
-<p align="center">图7：确认收到申请的第一封信</p>
+<p align="center"><b>图7：确认收到申请的第一封信</b></p>
+<p align="center">
+  <img src="./images/8.jpg" alt="图7">
+</p>
+
+---
 
 <a id="图8"></a>
-![图8](./images/9.jpg)
-<p align="center">图8：查询申请状况的界面</p>
+<p align="center"><b>图8：查询申请状况的界面</b></p>
+<p align="center">
+  <img src="./images/9.jpg" alt="图8">
+</p>
+
+---
 
 <a id="图9"></a>
-![图9](./images/10.jpg)
-<p align="center">图9：入境事务处总部搬迁后的交通信息</p>
+<p align="center"><b>图9：入境事务处总部搬迁后的交通信息</b></p>
+<p align="center">
+  <img src="./images/10.jpg" alt="图9">
+</p>
 
-PS: 这篇文章以及里面提到的几个开源工具也发在了小红书上面：[【原创】提前一个月申请香港永居](https://www.xiaohongshu.com/explore/66673d38000000001303e4aa)。如果有需要的话，可以移步小红书查看。无奈文章被很多中介擅自转发，希望看到的朋友随手举报。谢谢。
+---
+
+PS: 这篇文章以及里面提到的几个开源工具也发在了小红书上面：[【原创】提前一个月申请香港永居](https://www.xiaohongshu.com/explore/66673d38000000001303e4aa)。如果有需要的话，大家可以移步小红书查看。无奈文章被很多中介擅自转发，希望看到的朋友随手举报。谢谢。
